@@ -1,4 +1,4 @@
-rom collections import deque
+from collections import deque
 class Solution:
     # @param A : list of integers
     # @param B : integer
